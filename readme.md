@@ -1,4 +1,4 @@
-# VN-NEWS Portal - Hệ Thống Cổng Thông Tin Tin Tức Container Hóa
+# VN-NEWS Portal - Hệ Thống Cổng Thông Tin 
 
 Dự án triển khai cổng thông tin điện tử **VN-NEWS Portal** dựa trên kiến trúc microservices container hóa với **Docker Compose**. Hệ thống áp dụng mô hình phân tách mạng đa tầng (Network Isolation), cơ chế gia cố an toàn tiến trình (Non-root user), proxy bảo mật đầu cuối (Reverse Proxy HTTPS/SSL) và giám sát tập trung toàn diện (Prometheus, Grafana, Loki, Promtail).
 
